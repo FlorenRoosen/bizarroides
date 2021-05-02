@@ -9,8 +9,12 @@ Lorsqu'exécuté, le programme vous demande un nombre de départ, et un nombre f
 
 Pour un plus grand affichage, augmenter la valeur de la variable propr (par défaut 3) et cote_canv (par défaut 500). 
 Par exemple, 
-propr = 8
-cote_canv = 1000
+
+
+  propr = 8
+  
+  
+  cote_canv = 1000
 
 
 Utilisation de b_angles.py:
@@ -19,7 +23,9 @@ Utilisation de b_angles.py:
 Version dans laquelle il est conseillé de réduire l'intervalle de recherche. Les angles intéressants à explorer sont 120, 90.
 La variable à changer est "amplitude". 
 Par exemple,
-amplitude = 120
+
+
+  amplitude = 120
 
 Bon amusement ! 
 ==
