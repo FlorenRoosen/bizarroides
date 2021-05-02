@@ -20,6 +20,7 @@ Par exemple,
 Utilisation de b_angles.py:
 ==
 
+Il est nécessaire de télécharger également le fichier utilitaire fct_angles.py.
 Version dans laquelle il est conseillé de réduire l'intervalle de recherche. Les angles intéressants à explorer sont 120, 90.
 La variable à changer est "amplitude". 
 Par exemple,
